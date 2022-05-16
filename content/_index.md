@@ -4,9 +4,7 @@ tags:
 - intro
 ---
 
-## Complete Abstraction of the Language Barrier
-
-Talent is equally distributed, opportunity is not.[^1]
+## Talent is equally distributed, opportunity is not.[^1]
 
 From the Tower of Babel to Star Trek’s universal translator, the world has dreamed about what life would look like without language barriers. With the advent of foundation models[^2] such as GPT-3, machine translation (MT) output has in many applications become indistinguishable from that of a human translator. MT has even been used to communicate in high-stakes situations such as legal and medical cases.[^3] For daily situations around the world, MT is ubiquitous - in 2020, Google Translate’s app had over 1 billion monthly active users, or roughly 15% of the world’s population.[^4] 
 
@@ -31,9 +29,6 @@ Imagine this world.
 
 
 
-
-
-### References
 [^1]: [Leila Janah Is on a Mission to Fight Global Poverty With Technology | Inc.com](https://www.inc.com/inc-live/leila-janah-is-on-a-mission-to-fight-global-poverty-with-technology.html?cid=search)
 [^2]: [[2108.07258] On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 [^3]: It is another discussion whether machine translation has been used in an official capacity or not for highly regulated industries like legal.
