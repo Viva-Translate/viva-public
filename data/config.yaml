@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Viva
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -6,12 +6,13 @@ enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Work globally, without language barriers.
 page_title:
-  "🪴 Quartz 3.2"
+  "Viva"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/Viva_Translate
+  - link_name: Facebook
+    link: https://www.facebook.com/WelcomeViva
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/company/viva-translate

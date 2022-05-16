@@ -27,6 +27,9 @@ We are talking about a world where people fully collaborate across languages, wh
 
 Imagine this world.
 
+- - -
+
+Interested? Read onto [the first problem Viva is tackling - remote work.](notes/problem) or reach out to us at belinda@vivatranslate.com. 
 
 
 [^1]: [Leila Janah Is on a Mission to Fight Global Poverty With Technology | Inc.com](https://www.inc.com/inc-live/leila-janah-is-on-a-mission-to-fight-global-poverty-with-technology.html?cid=search)
