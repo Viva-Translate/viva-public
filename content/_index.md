@@ -4,7 +4,7 @@ tags:
 - intro
 ---
 
-## Talent is equally distributed, opportunity is not.[^1]
+Talent is equally distributed, opportunity is not.[^1]
 
 From the Tower of Babel to Star Trek’s universal translator, the world has dreamed about what life would look like without language barriers. With the advent of foundation models[^2] such as GPT-3, machine translation (MT) output has in many applications become indistinguishable from that of a human translator. MT has even been used to communicate in high-stakes situations such as legal and medical cases.[^3] For daily situations around the world, MT is ubiquitous - in 2020, Google Translate’s app had over 1 billion monthly active users, or roughly 15% of the world’s population.[^4] 
 
